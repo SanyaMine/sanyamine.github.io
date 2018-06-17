@@ -2,11 +2,6 @@ body {
 	background-color: black;
 }
 
-.vimeodiv {
-	padding:56.25% 0 0 0;
-	position:relative;
-}
-
 iframe {
 	position:absolute;
 	top:0;
