@@ -38,6 +38,13 @@ a.header--menu--text {
 	margin-left: 20px;
 	margin-right: 20px;
 }
+.fade {
+  opacity: 1;
+}
+ 
+.fade:hover {
+  opacity: 0.6;
+}
 
 #content {
 	background: rgba(232, 232, 232, 1);
@@ -77,5 +84,9 @@ a.header--menu--text {
 
 .youtubeiframe {
 	border-radius: 5px;
+}
+
+.secrettext {
+	display: none;
 }
 /* End of the styles.css file */
