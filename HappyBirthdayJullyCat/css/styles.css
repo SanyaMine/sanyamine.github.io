@@ -1,7 +1,7 @@
 body {
 	color: white;
 	background: black;
-  margin: 0px;
+  	margin: 0px;
 }
 
 pre {
@@ -9,18 +9,18 @@ pre {
 }
 
 .terminaltext {
- color:green; 
- font-size: 1.6em;
+ 	color:green; 
+ 	font-size: 1.6em;
 }
 
 .maintext {
 	float:left;
-  font-size: 1.5em;
+  	font-size: 1.5em;
 }
 
 .sideart {
 	float: left;
-  font-size: 1.2em;
+	font-size: 1.2em;
 }
 
 .asciart {
