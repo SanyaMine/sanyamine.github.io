@@ -1,95 +1,11 @@
-body { 
-	background: #D4D4D4;
-	margin: 0px;
-}
-
-a {
-	color: #82adf2;	
-	text-decoration: none;
-}
-
-hr {
-	border: none;
+body {
 	background-color: black;
-	height: 2px;
 }
 
-.header {
-	background: rgba(0, 0, 0, 0.80);
-	height: auto;
-	margin-bottom: 5px;
-	width: 100%;
-	float: left;
-	min-height: 99px;
+iframe {
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
 }
-
-#logo {
-	float:left;
-	height: 99px;
-	width: 80px;
-}
-
-.header--menu {
-	font-size: 30px;
-	display: block;	
-	text-align: center;
-	margin-right: 200px;
-	margin-left: 200px;
-	font-family: 'Exo 2', sans-serif;
-}
-
-.header--menu > li {
-	display: inline-block;
-	position: relative;
-}
-
-a.header--menu--text {
-	color: white;
-	margin-left: 20px;
-	margin-right: 20px;
-	opacity: 1;
-} 
-
-a.header--menu--text:hover {
-	opacity: 0.6;
-	border:5px;
-	border-color: white;
-}
-
-.content {
-	background: rgba(232, 232, 232, 1);
-	min-height: 493px;
-	width: 42.5%;	
-	float: left;
-	font-family: sans-serif;
-	margin-bottom: 5px;
-	text-align: center;
-	margin-left: 22.5%;
-	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-
-.sidebar {
-	background: rgba(232, 232, 232, 1);
-	min-height: 493px; 
-	width: 11%;
-	float: left;
-	margin-left: 0.25%;
-	margin-bottom: 5px;
-	font-family: sans-serif;
-	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-
-.footer {
-	background: rgba(81, 79, 79, 1);
-	min-height: 76px;
-	font-family: sans-serif;
-	clear: both;
-	width: 100%;
-	color: grey;
-}
-
-.youtubeiframe {
-	border-radius: 5px;
-}
-
-/* End of the styles.css file */
