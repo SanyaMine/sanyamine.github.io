@@ -14,7 +14,7 @@ body {
 .fakeScreen {
   background-color: #151515;
   box-sizing: border-box;
-  width: 550px;
+  width: auto;
   margin: 0 auto;
   padding: 20px;
   border-bottom-left-radius: 5px;
