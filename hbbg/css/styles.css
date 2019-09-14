@@ -7,6 +7,9 @@ img {
   width:100%;
 }
 
+pre {
+  color:#ffffff;
+}
 .fakeZoom {
  
   background-color: #00d742;
