@@ -1,0 +1,61 @@
+body {
+  background-color:black;
+}
+
+p, pre {
+
+}
+
+a {
+  color:pink;
+}
+
+#terminal_header_parent {
+border: 2px solid pink;
+padding: 5px;
+color:pink;
+font-family:courier;
+}
+
+#terminal_header_child {
+}
+
+#terminal_text_child {
+  display:inline;
+}
+
+#terminal_buttons_child {
+  text-align:right;
+  float:right;
+}
+
+#terminal_parent {
+  padding:5px;
+  border: 2px solid pink;
+  margin-top: 80px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+#terminal_child, #text {
+  color:pink;
+  font-family:courier;
+  min-height: 390px;
+}
+
+#button_sub_parent {
+  margin:auto;
+  width:360px;
+}
+
+#button_child1, #button_child2, #button_child3 {
+  border: 2px solid pink;
+  color:pink;
+  display:inline;
+  padding:2px;
+}
+
+
+#end {
+  text-align: center;
+}
